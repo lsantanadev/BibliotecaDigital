@@ -1,6 +1,6 @@
 package BibliotecaDigital;
 
-public class EmprestimoException extends RuntimeException {
+public class EmprestimoException extends Exception {
     public EmprestimoException(String message) {
         super(message);
     }

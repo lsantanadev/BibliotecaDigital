@@ -16,6 +16,6 @@ public enum StatusItem {
 
     @Override
     public String toString() {
-        return "Status: "+this.status;
+        return this.status;
     }
 }
