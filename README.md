@@ -2,7 +2,7 @@
 
 Este projeto é uma demonstração prática e aprofundada da aplicação de conceitos de **Programação Orientada a Objetos (POO)** para a construção de um sistema de software coeso e funcional. O sistema simula o gerenciamento do acervo, usuários e operações de empréstimo de uma biblioteca digital.
 
-> **Status:** Projeto Concluído ✅
+> **Status:** Em construção...
 
 -----
 
