@@ -60,7 +60,7 @@ Este projeto foi cuidadosamente desenhado para aplicar os seguintes conceitos:
 
 1. **Clone o repositório:**
     ```bash
-    git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
+    git clone https://github.com/lsantanadev/BibliotecaDigital.git
     ```
 
 2. **Navegue até o diretório do projeto:**
