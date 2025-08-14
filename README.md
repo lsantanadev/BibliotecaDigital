@@ -60,18 +60,18 @@ Este projeto foi cuidadosamente desenhado para aplicar os seguintes conceitos:
 
 1. **Clone o repositório:**
     ```bash
-    git clone https://github.com/lsantanadev/BibliotecaDigital.git
+    git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
     ```
 
 2. **Navegue até o diretório do projeto:**
     ```bash
-    cd nome-do-seu-repositorio
+    cd BibliotecaDigital
     ```
 
 3. **Compile os arquivos Java:**  
    O comando abaixo compila todos os arquivos `.java` e organiza os arquivos `.class` em um diretório `out` para manter o projeto limpo.
     ```bash
-    javac -d out src/BibliotecaDigital/*.java src/BibliotecaDigital/Excessoes/*.java
+    javac -d out src/BibliotecaDigital/.java src/BibliotecaDigital.java
     ```
 
 4. **Execute a classe principal:**  
@@ -86,10 +86,7 @@ Este projeto foi cuidadosamente desenhado para aplicar os seguintes conceitos:
 
 ## 👨‍💻 Autor
 
-Projeto desenvolvido por **[SEU NOME AQUI]**.
-
-  * [](https://www.google.com/search?q=https://www.linkedin.com/in/SEU_LINKEDIN/)
-  * [](https://www.google.com/search?q=https://github.com/lsantanadev)
+Projeto desenvolvido por Leonardo Santana da Silva.
 
 -----
 
