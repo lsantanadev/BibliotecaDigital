@@ -8,16 +8,16 @@ public class Main {
     public static void main(String[] args) {
         Biblioteca biblioteca = new Biblioteca();
 
-        Autor autor1 = new Autor("Machado de assis", "Brasileiro");
+        Autor autor1 = new Autor("Jorge Amado", "Brasileiro");
         Autor autor2 = new Autor("Deitel", "Americano");
 
         Usuario usuario1 = new Usuario("Leonardo", 123);
         Usuario usuario2 = new Usuario("Daniela", 569);
 
-        Livro livro1 = new Livro("Java",2008, autor2);
+        Livro livro1 = new Livro("Java: Como programar",2008, autor2);
         Livro livro2 = new Livro("Capitaes de areia", 1990, autor1);
 
-        MidiaDigital midia1 = new MidiaDigital("Como ser foda", 2012, "Ebook");
+        MidiaDigital midia1 = new MidiaDigital("Livro digital", 2012, "Ebook");
 
         biblioteca.cadastrarUsuario(usuario1);
         biblioteca.cadastrarUsuario(usuario2);
