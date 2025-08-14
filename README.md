@@ -71,7 +71,7 @@ Este projeto foi cuidadosamente desenhado para aplicar os seguintes conceitos:
 3. **Compile os arquivos Java:**  
    O comando abaixo compila todos os arquivos `.java` e organiza os arquivos `.class` em um diretório `out` para manter o projeto limpo.
     ```bash
-    javac -d out src/BibliotecaDigital/.java src/BibliotecaDigital.java
+    javac -d out src/BibliotecaDigital/*.java
     ```
 
 4. **Execute a classe principal:**  
