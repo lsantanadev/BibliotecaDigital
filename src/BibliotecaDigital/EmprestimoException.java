@@ -1,4 +1,4 @@
-package BibliotecaDigital.Excessoes;
+package BibliotecaDigital;
 
 public class EmprestimoException extends RuntimeException {
     public EmprestimoException(String message) {

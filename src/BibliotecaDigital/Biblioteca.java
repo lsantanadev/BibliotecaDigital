@@ -1,8 +1,4 @@
 package BibliotecaDigital;
-
-import BibliotecaDigital.Excessoes.EmprestimoException;
-
-import java.sql.SQLOutput;
 import java.util.ArrayList;
 
 public class Biblioteca {
@@ -105,12 +101,6 @@ public class Biblioteca {
             itemDevolve.setStatus(StatusItem.DISPONIVEL);
             System.out.println("Item: "+itemDevolve.getTitulo()+" devolvido para o acervo pelo o usuario: "+usuarioDevolve.getNome());
         }
-
-
-
-
-
-
     }
 
     public ArrayList<ItemAcervo> getAcervo() {

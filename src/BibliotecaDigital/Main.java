@@ -1,7 +1,4 @@
 package BibliotecaDigital;
-
-import BibliotecaDigital.Excessoes.EmprestimoException;
-
 import java.util.Scanner;
 
 public class Main {
